@@ -13,7 +13,7 @@ Download the YOLO model weights,  [YOLOv5](https://github.com/ultralytics/yolov5
 
 ## 3.Modify the dictionary mapping in attacker.py
 
-Modify the dictionary mapping of YOLO categories based on the downloaded YOLO model weights, and adjust the dictionary for semantics-related mappings according to different datasets (Flickr30k / MSCOCO).
+Modify the dictionary mapping of YOLO categories based on the downloaded YOLO model weights, and adjust the dictionary for semantics-related mappings according to different datasets (Flickr30k / MSCOCO).[detail in Build_SND.md]
 
 ## 4. Attack evaluation
 
